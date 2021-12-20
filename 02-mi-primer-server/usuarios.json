@@ -1,0 +1,9 @@
+[
+  { "id": 1, "nombre": "Alfonso", "apellido": "Cifuentes", "edad": 38 },
+  { "id": 2, "nombre": "Trent", "apellido": "Reznor", "edad": 45 },
+  { "id": 3, "nombre": "Perico", "apellido": "Palotes", "edad": 50 },
+  { "id": 4, "nombre": "Peter", "apellido": "Griffin", "edad": 42 },
+  { "id": 5, "nombre": "Paco", "apellido": "Pil", "edad": 54 },
+  { "id": 6, "nombre": "Benito", "apellido": "Camela", "edad": 69 },
+  { "id": 7, "nombre": "Elena", "apellido": "Nito del Bosque", "edad": 50 }
+]
